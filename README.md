@@ -1,2 +1,2 @@
-# github-contribution
-A chrome addon to display your contribution today
+# github-contribution (wip)
+A chrome addon to display your github contribution today
